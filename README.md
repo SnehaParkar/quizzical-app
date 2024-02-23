@@ -13,9 +13,15 @@ Trivia Questions API: <a href=" https://opentdb.com/api_config.php">https://open
 
 
 ### Screenshot
+<b> Start Option Screen</b>
 <img src="src/images/screenshot1.png" width="70%"/>
 
+<b>Quiz Screen</b>
 <img src="src/images/screenshot2.png" width="70%"/>
+<img src="src/images/screenshot3.png" width="70%"/>
+
+<b>Leaderboard </b>
+<img src="src/images/screenshot4.png" width="70%"/>
 
 ### Getting Started with Create React App
 
