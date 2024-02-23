@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quizzical-app/precache-manifest.9f66ff4db7d7d2dc69ab141ccfd4bb5d.js"
+  "/quizzical-app/precache-manifest.f8b6efa694f6e9c54394d4f3d47f11da.js"
 );
 
 self.addEventListener('message', (event) => {
